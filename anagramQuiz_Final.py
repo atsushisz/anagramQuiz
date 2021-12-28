@@ -1,7 +1,7 @@
 import random
 
 #ここに出題する文字を入力しよう
-questionlist = 'マイクロソフト', "Microsoft", "Python", "舞子高校"
+questionlist = 'マイクロソフト', "Microsoft", "Python"
 
 #>>ここを編集<< コンソールに文字列を表示
 print("アナグラムを表示するから答えを入力してね")

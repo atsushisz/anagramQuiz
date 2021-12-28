@@ -6,7 +6,7 @@ import random
 #>>>>>点数を初期化
 score = 0
 #ここに出題する文字列を入力しよう
-questionlist = 'マイクロソフト', "Microsoft", "Python", "舞子高校"
+questionlist = 'マイクロソフト', "Microsoft", "Python"
 
 #>>>>>>>>Enterを押したらゲームをスタート
 input("Enterを押したらゲームがスタートするよ")
